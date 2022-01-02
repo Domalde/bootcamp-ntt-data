@@ -2,9 +2,10 @@
 
 Este respositório tem a função de auxiliar no estudos do bootcamp da NTT DATA na DIO.
 
-## Links importantes
+## Ligações externas
 
 [Markdown Guide](https://www.markdownguide.org/) <br>
 [Git](https://git-scm.com/downloads) <br>
 
-###### *by Leandro Monteiro*
+## Autoria
+[Leandro Monteiro](https://www.linkedin.com/in/stmleandro/)

@@ -1,0 +1,22 @@
+Trabalhando com o GitHub
+
+# Lista de configurações
+git config --list
+
+# Removendo configuração 
+git config --global --unset user.email
+
+# Criar repositório no GitHub
+
+# Apontar repositório do local para o remoto
+git remote add origin 'linkHTTPSGitHub'
+
+# Levar o repositório local para o remoto
+git push origin master
+
+# Trazer o repositório remoto para o local
+git pull origin master
+
+
+
+

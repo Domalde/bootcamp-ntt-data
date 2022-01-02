@@ -1,0 +1,27 @@
+Iniciando o Git
+
+# Criar pasta
+mkdir nome-pasta
+
+# Caminhando até a pasta criada
+cd nome-pasta/
+
+# Criando repositório
+git init
+
+# Criando username e e-mail
+git config --global user.email "stmleandro@gmail.com"
+git config --global user.name "Domalde"
+
+# Criando arquivo Markdown
+echo > README.md
+
+# Mover arquivo
+mv nomearquivo.md ./outrorespositorio
+
+# Comitando git
+git add *
+git commit -m "descrição"
+
+# Monitorar o status dos arquivos
+git status
